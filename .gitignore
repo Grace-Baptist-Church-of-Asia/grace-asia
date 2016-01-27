@@ -1,0 +1,8 @@
+virtenv
+*.pyc
+.DS_Store
+*.swp
+/static/
+/media/
+.env
+.DS_Store
